@@ -1,3 +1,3 @@
 # Phase1_TwicePage
 
-Submission Belajar Dasar Pemrogramaa Web Dicoding 2022
+Submission Belajar Dasar Pemrograman Web Dicoding 2022
